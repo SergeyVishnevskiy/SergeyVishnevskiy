@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img scr='https://cdn.iconscout.com/icon/free/png-256/html5-10-569380.png'>
 <!--
 **SergeyVishnevskiy/SergeyVishnevskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
